@@ -1,0 +1,51 @@
+scone
+Package: scone
+install.package(`scone`)
+setRepositories()
+utils:::menuInstallPkgs()
+setRepositories()
+q()
+getwd()
+library()
+mat<-matrix(c(1,3,5,7,11,13),ncol=3)
+matrix()
+install.packages (gdata)
+install.packages (gdata)
+install.packages (xlxs)
+install.packages ("readxl")
+read.cs(C://Desktop/cleanclean2.0plt,header=TRUE,sep=",")
+read.csv(C://Desktop/cleanclean2.0plt,header=TRUE,sep=",")
+read.csv(Desktop/cleanclean2.0plt,header=TRUE,sep=",")
+library(readxl)
+clean_clean_2_0_plt <- read_excel("C:/Users/vronc/Desktop/clean clean 2.0 plt.xls")
+View(clean_clean_2_0_plt)
+library(readxl)
+clean_clean_2_0_plt <- read_excel("C:/Users/vronc/Desktop/clean clean 2.0 plt.xls",
+sheet = "Sheet1")
+View(clean_clean_2_0_plt)
+install.packages(tableone)
+install.packages("devtools")
+devtools::install_github(repo = "kaz-yos/tableone", ref = "develop")
+library(tableone)
+install.packages("tableone")
+library(tableone)
+clean_clean_2_0_plt
+1+1
+num [1:2, 1:4]
+num[1:2, 1:4]
+num [1;4, 1;2] 12345678
+num [1;4, 1;2] 1 2 3 4 5 6 7 8
+num [1:4, 1:2] 1 2 3 4 5 6 7 8
+dat~<num [1:4, 1:2] 1 2 3 4 5 6 7 8
+dat-<num [1:4, 1:2] 1 2 3 4 5 6 7 8
+b = matrix (c(1, 2, 3, 4, 5, 6, 7, 8), nrow=4, ncol=2)
+b
+clean
+/clean
+help(clean)
+cln
+setwd('~/liver/analysis/BEC_PLD/')
+input_dir_pld="~/liver/sequencing/GB090819-YO/BEC_counts/outs/raw_feature_bc_matrix/"
+input_dir_pbc="~/liver/sequencing/GB230819-YO/BEC_counts/outs/raw_feature_bc_matrix/"
+library(dplyr)
+library(Seurat)
